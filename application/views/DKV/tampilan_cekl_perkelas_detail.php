@@ -3,7 +3,7 @@
         <div class="col-md mt-4">
             <div class="card bg-primary">
                 <div class="card-body">
-                    <h4 class="text-center text-white">Cek Legistimasi</h4>
+                    <h4 class="text-center text-white text-uppercase">Cek Legistimasi</h4>
                     <h4 class="text-center text-white">DESAIN KOMUNIKASI VISUAL (DKV)</h4>
                     <h4 class="text-center text-white text-uppercase">Kelas : <?= $header['name'] ?></h4>
                 </div>
