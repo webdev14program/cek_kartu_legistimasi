@@ -16,7 +16,7 @@
         <div class="col-md mt-4">
             <div class="card">
                 <div class="card-header bg-success">
-                    <h4 class="text-center text-uppercase text-white">AKtif</h4>
+                    <h4 class="text-center text-uppercase text-white">Sudah AMbil legistimasi</h4>
                 </div>
                 <div class="card-body">
                     <table class="table table-striped table-bordered" id="dataTable" width="100%" cellspacing="0">
@@ -46,7 +46,7 @@
         <div class="col-md mt-4">
             <div class="card">
                 <div class="card-header bg-danger">
-                    <h4 class="text-center text-uppercase text-white">Non AKtif</h4>
+                    <h4 class="text-center text-uppercase text-white">Belum AMbil legistimasi</h4>
                 </div>
                 <div class="card-body ">
                     <table class="table table-striped table-bordered" id="dataTable" width="100%" cellspacing="0">
