@@ -12,6 +12,7 @@ class DKV extends CI_Controller
         $this->load->view('templates/header');
         $this->load->view('DKV/tampilan_cekl_perkelas', $isi);
         $this->load->view('templates/footer');
+        redirect('Home');
     }
 
     public function tampilan_detail($id)
@@ -23,5 +24,6 @@ class DKV extends CI_Controller
         $this->load->view('templates/header');
         $this->load->view('DKV/tampilan_cekl_perkelas_detail', $isi);
         $this->load->view('templates/footer');
+        redirect('Home');
     }
 }
